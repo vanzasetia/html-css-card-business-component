@@ -4,7 +4,7 @@ This is a practice project to compare the performance of React, Preact, and Svel
 
 I create this project to practice the basic of those JavaScript frameworks. You can see the live site:
 
-[Live review](https://laurasmithbusiness.netlify.app/)
+[Card Business Component with HTML and CSS](https://laurasmithbusiness.netlify.app/)
 
 ## Built with
 
