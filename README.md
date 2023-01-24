@@ -1,8 +1,12 @@
 # Card Business Component with HTML and CSS
 
-This is a practice project to compare the performance of React, Preact, and Svelte with the "HTML CSS" website. It is a static website.
+This is a practice project to compare the performance of React, Preact, and Svelte with the "HTML CSS" website.
 
-I create this project to practice the basic of those JavaScript frameworks. You can see the live site:
+This project is a static website.
+
+I create this project as an example to practice the basic of those JavaScript frameworks.
+
+You can see the live site:
 
 [Card Business Component with HTML and CSS](https://laurasmithbusiness.netlify.app/)
 
