@@ -42,15 +42,15 @@ Let's compare the page weight of each website:
 
 The heaviest page weight is the website made by using React. Here are some of the key findings that the website that is built with React is:
 
-- **3.57x** heavier than the "HTML CSS" website,
-- **2.96x** heavier than the Svelte website, and
-- **2.35x** heavier than the Preact website.
+- **3.6x** heavier than the "HTML CSS" website,
+- **3.0x** heavier than the Svelte website, and
+- **2.4x** heavier than the Preact website.
 
 The lightest page weight is the website that is built with standard technologies — HTML and CSS. Here are some of the key findings that the website that is built with HTML and CSS is:
 
-- **0.2x** lighter than the Svelte website,
-- **0.5x** lighter than the Preact website, and
-- **2.5x** lighter than the React website.
+- **1.2x** lighter than the Svelte website,
+- **1.5x** lighter than the Preact website, and
+- **3.5x** lighter than the React website.
 
 The reason for this is happening is because **frameworks come with other stuff**. So, the page weight will be higher than the "HTML CSS" website.
 
